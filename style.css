@@ -41,10 +41,10 @@
     }
     input {
       font-weight: bold;
-      font-szie: 15;
+      font-size: 15;
     }
     .btn {
       color: blue;
-      padding-top: 
+      padding-top: 2px;
     }
-  
+  }
