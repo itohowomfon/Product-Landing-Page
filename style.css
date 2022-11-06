@@ -25,6 +25,10 @@ body {
   top: 0;
   background-color: #eeeeee;
 }
+.logo .header-img{
+  width: 20px;
+  height: 200px;
+}
 
 .logo {
   display: flex;
